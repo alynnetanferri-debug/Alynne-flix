@@ -1,0 +1,50 @@
+<!DOCTYP html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viweport" content="widht=device-width, initial-scale=1.0">
+  <title>Alynneflix</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<head>Alynneflix</p>
+<section1>
+<div>"O melhor do autoconhecimento"
+<h1> Pisicologia em foco</h1>
+<p>#pisicologia</p>
+<a href="COLOCAR O LINK DO SEU VIDEO">
+<img src="COLOCAR O LINK NA CAPA DO VIDEO" alt="">
+</div>
+<div>
+</section1>
+<section2>
+<h2>filmes e série</h2>
+<div class=" categorias-videos ">
+<a href=" COLOCAR O LINK DO SEU VIDEO " alt=""
+<img src=" COLOCAR O LINK DA CAPA DO VIDEO" alt="">
+</a>
+<a href=" COLOCAR O LINK DO SEU VIDEO ">
+< img src=" COLOCAR O LINK DA CAPA DO VIDEO " alt="">
+</a>
+</div>
+</section2>
+</body>
+</html>
+body{
+  color: red;
+  background-color: yellonwgreen;
+  margin- 0px;
+  }
+heard}
+border-battom:solid 2px rgb(42,122,228)
+margin: 20px;
+font-size60px
+}
+  img{
+    height:200px;
+    }
+.categorias-videos  {
+     display: flex;
+     overflow-x auto;
+     gap: 10px;
+  }
